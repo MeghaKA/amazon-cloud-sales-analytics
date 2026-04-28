@@ -51,6 +51,6 @@ The goal was to transform raw transactional data into a decision-making dashboar
 
 ⸻
 
-📁 Dataset
+## 📁 Dataset
 
 Dataset sourced from publicly available Amazon sales data-Kaggle(https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset).
