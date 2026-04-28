@@ -1,6 +1,6 @@
-🚀 Amazon Cloud Sales Analytics
+# 🚀 Amazon Cloud Sales Analytics
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project demonstrates an end-to-end cloud analytics workflow using Google BigQuery and Looker Studio to analyze Amazon sales data and generate actionable business insights.
 
@@ -8,7 +8,7 @@ The goal was to transform raw transactional data into a decision-making dashboar
 
 ⸻
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 * Google BigQuery (Cloud Data Warehouse)
 * SQL (Data Transformation & Aggregation)
@@ -16,7 +16,7 @@ The goal was to transform raw transactional data into a decision-making dashboar
 
 ⸻
 
-📊 Key Metrics
+## 📊 Key Metrics
 
 * Total Revenue: ₹78.59M
 * Total Orders: 128,975
@@ -26,7 +26,7 @@ The goal was to transform raw transactional data into a decision-making dashboar
 
 ⸻
 
-📈 Key Insights
+## 📈 Key Insights
 
 * Top product categories contributed ~65–70% of total revenue
 * Identified clear revenue spikes indicating seasonal demand patterns
