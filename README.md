@@ -43,10 +43,11 @@ The goal was to transform raw transactional data into a decision-making dashboar
 * Building interactive dashboards for stakeholders
 
 ⸻
+## 📊 Dashboard Preview
 
-📊 Dashboard Preview
-
-# dashboard_preview.png
+<p align="center">
+  <img src="images/dashboard.png" width="800"/>
+</p>
 
 ⸻
 
