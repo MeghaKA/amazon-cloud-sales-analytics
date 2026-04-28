@@ -46,7 +46,7 @@ The goal was to transform raw transactional data into a decision-making dashboar
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="800"/>
+  <img src="images/dashboard_preview.png" width="800"/>
 </p>
 
 ⸻
